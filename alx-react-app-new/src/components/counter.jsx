@@ -6,7 +6,7 @@ function Counter() {
   const [count, setCount] = useState(0);
 
   return (
-    <div style={{ textAlign: 'center', marginTop: '20px' }}>
+    <div style={{ textAlign: 'center', marginTop: '21px' }}>
       {/* Display the current count */}
       <p>Current Count: {count}</p>
       
